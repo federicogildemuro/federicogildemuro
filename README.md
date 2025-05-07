@@ -25,13 +25,11 @@ I am a junior developer with a solid foundation in programming, as well as exper
 ### 🚀 Featured Projects
 
 **🧔 Barbershop App**
-
 [Repository](https://github.com/federicogildemuro/dartom) • [Live Demo](https://dartom.onrender.com/)
 
 A web app for booking and managing appointments at a barbershop. Built with Laravel, Blade, MySQL, and Tailwind CSS.
 
 **🍣 Sushi E-commerce**
-
 [Repository](https://github.com/federicogildemuro/kyo-sushi) • [Live Demo](https://kyo-sushi.netlify.app/)
 
 An e-commerce app for sushi delivery, allowing users to browse the menu, add items to the cart, and place orders. Developed with React and Firebase.
