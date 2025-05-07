@@ -15,18 +15,25 @@ I am a junior developer with a solid foundation in programming, as well as exper
 ### 🖥 Technologies
 
 **Frontend:** HTML, CSS, Sass, Bootstrap, JavaScript, TypeScript, Angular, React, Tailwind, Vue
+
 **Backend:** C, Java, Node.js, Express, PHP, Laravel
+
 **Databases:** MySQL, MongoDB, Firebase
+
 **Tools:** Git, GitHub, Postman, Markdown, Jira, Trello, Docker
 
 ### 🚀 Featured Projects
 
 **🧔 Barbershop App**
+
 [Repository](https://github.com/federicogildemuro/dartom) • [Live Demo](https://dartom.onrender.com/)
+
 A web app for booking and managing appointments at a barbershop. Built with Laravel, Blade, MySQL, and Tailwind CSS.
 
 **🍣 Sushi E-commerce**
+
 [Repository](https://github.com/federicogildemuro/kyo-sushi) • [Live Demo](https://kyo-sushi.netlify.app/)
+
 An e-commerce app for sushi delivery, allowing users to browse the menu, add items to the cart, and place orders. Developed with React and Firebase.
 
 ### 📊 GitHub Stats
@@ -37,4 +44,4 @@ An e-commerce app for sushi delivery, allowing users to browse the menu, add ite
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=federicogildemuro&theme=radical)
 
-###⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
