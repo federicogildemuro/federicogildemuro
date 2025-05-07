@@ -26,7 +26,7 @@ I am a junior developer with a solid foundation in programming, as well as exper
 
 **🧔 Barbershop App**
 
-[Repository](https://github.com/federicogildemuro/dartom) • [Live Demo](https://dartom.onrender.com/)
+([Repository](https://github.com/federicogildemuro/dartom) | [Live Demo](https://dartom.onrender.com/))
 
 A web app for booking and managing appointments at a barbershop. Built with Laravel, Blade, MySQL, and Tailwind CSS.
 
