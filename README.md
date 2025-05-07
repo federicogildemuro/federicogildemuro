@@ -1,19 +1,17 @@
 # 👋 Hi, I'm Federico Gil de Muro
 
-**Full Stack Developer**  
+## 💻 Full Stack Developer
 Former lawyer and professor, applying a multidisciplinary approach to problem-solving and continuous learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/federicogildemuro)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://federico-gil-de-muro-portfolio.vercel.app/cv-federico-gil-de-muro.pdf)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=internet-explorer)](https://federico-gil-de-muro-portfolio.vercel.app/cv-federico-gil-de-muro.pdf)
 [![CV](https://img.shields.io/badge/CV-PDF-red?style=flat&logo=adobeacrobatreader)](https://federico-gil-de-muro-portfolio.vercel.app/cv-federico-gil-de-muro.pdf)
 
 ## 💼 About Me
 
 I am a junior developer with a solid foundation in programming, as well as experience as a lawyer and university professor. My multidisciplinary background gives me a unique perspective on problem-solving and adaptability in new fields. Passionate about continuous learning, I’m eager to apply my skills in the IT industry and bring both technical and soft skills to new challenges.
 
-## 🖥 Skills & Technologies
+## 🖥 Technologies
 
 **Frontend:** HTML, CSS, Sass, Bootstrap, JavaScript, TypeScript, Angular, React, Tailwind, Vue  
 **Backend:** C, Java, Node.js, Express, PHP, Laravel  
@@ -22,7 +20,7 @@ I am a junior developer with a solid foundation in programming, as well as exper
 
 ## 🚀 Featured Projects
 
-### 🧔‍♂ Barbershop App  
+### 🧔 Barbershop App  
 [Repository](https://github.com/federicogildemuro/dartom) • [Live Demo](https://dartom.onrender.com/)  
 A web app for booking and managing appointments at a barbershop. Built with Laravel, Blade, MySQL, and Tailwind CSS.
 
@@ -38,6 +36,6 @@ An e-commerce app for sushi delivery, allowing users to browse the menu, add ite
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=federicogildemuro&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=federicogildemuro&bg_color=ffffff&color=36d7b7&line=36d7b7&point=ffffff&area=true&area_color=36d7b7)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=federicogildemuro&bg_color=ffffff&color=36d7b7&line=36d7b7&point=ffffff&area=true&area_color=36d7b7)
 
-⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
