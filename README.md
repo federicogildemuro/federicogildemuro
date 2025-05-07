@@ -1,12 +1,14 @@
-# 👋 Hi, I'm Federico Ariel Gil de Muro
+# 👋 Hi, I'm Federico Gil de Muro
 
 **Full Stack Developer**  
 Former lawyer and professor, applying a multidisciplinary approach to problem-solving and continuous learning.
 
 📍 Mar del Plata, Argentina  
 📫 federicogildemuro@gmail.com  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/federicogildemuro)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://federico-gil-de-muro-portfolio.vercel.app/cv-federico-gil-de-muro.pdf)
+[![CV](https://img.shields.io/badge/CV-PDF-red?style=flat&logo=adobeacrobatreader)](https://federico-gil-de-muro-portfolio.vercel.app/cv-federico-gil-de-muro.pdf)
 
 ---
 
@@ -41,15 +43,6 @@ An e-commerce app for sushi delivery, allowing users to browse the menu, add ite
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=federicogildemuro&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=federicogildemuro&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=federicogildemuro&theme=radical)
-
----
-
-## 📄 CV
-
-Feel free to download my CV and learn more about my background:
-
-[![Download CV](https://img.shields.io/badge/CV-PDF-red?style=flat&logo=adobeacrobatreader)](https://federico-gil-de-muro-portfolio.vercel.app/cv-federico-gil-de-muro.pdf)
 
 ---
 
