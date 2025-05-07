@@ -25,14 +25,15 @@ I am a junior developer with a solid foundation in programming, as well as exper
 ### 🚀 Featured Projects
 
 **🧔 Barbershop App**  
-[![Repository](https://img.shields.io/badge/Repository-000?style=flat&logo=github)](https://github.com/federicogildemuro/dartom) | [![Live Demo](https://img.shields.io/badge/Live%20Demo-28a745?style=flat&logo=internet-explorer)](https://dartom.onrender.com)  
+[![Repository](https://img.shields.io/badge/Repository-000?style=flat&logo=github)](https://github.com/federicogildemuro/dartom) | [![Live Demo](https://img.shields.io/badge/Live%20Demo-28a745?style=flat)](https://dartom.onrender.com)  
 
 A web app for booking and managing appointments at a barbershop. Built with Laravel, Blade, MySQL, and Tailwind CSS.
 
 **🍣 Sushi E-commerce**  
-[![Repository](https://img.shields.io/badge/Repository-000?style=flat&logo=github)](https://github.com/federicogildemuro/kyo-sushi) | [![Live Demo](https://img.shields.io/badge/Live%20Demo-28a745?style=flat&logo=internet-explorer)](https://kyo-sushi.netlify.app)  
+[![Repository](https://img.shields.io/badge/Repository-000?style=flat&logo=github)](https://github.com/federicogildemuro/kyo-sushi) | [![Live Demo](https://img.shields.io/badge/Live%20Demo-28a745?style=flat)](https://kyo-sushi.netlify.app)  
 
 An e-commerce app for sushi delivery, allowing users to browse the menu, add items to the cart, and place orders. Developed with React and Firebase.
+
 
 ### 📊 GitHub Stats
 
